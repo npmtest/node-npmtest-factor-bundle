@@ -1,0 +1,54 @@
+<svg height="814" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="814" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ factor-bundle@2.5.0 </tspan>
+<tspan x="10" y="90">  ├─┬ browser-pack@5.0.1 </tspan>
+<tspan x="10" y="106">  │ ├─┬ combine-source-map@0.6.1 </tspan>
+<tspan x="10" y="122">  │ │ ├── convert-source-map@1.1.3 </tspan>
+<tspan x="10" y="138">  │ │ ├── inline-source-map@0.5.0 </tspan>
+<tspan x="10" y="154">  │ │ ├── lodash.memoize@3.0.4 </tspan>
+<tspan x="10" y="170">  │ │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="186">  │ │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="202">  │ ├── defined@1.0.0 </tspan>
+<tspan x="10" y="218">  │ ├─┬ JSONStream@1.3.1 </tspan>
+<tspan x="10" y="234">  │ │ └── jsonparse@1.3.0 </tspan>
+<tspan x="10" y="250">  │ ├─┬ through2@1.1.1 </tspan>
+<tspan x="10" y="266">  │ │ └── readable-stream@1.1.14 </tspan>
+<tspan x="10" y="282">  │ └── umd@3.0.1 </tspan>
+<tspan x="10" y="298">  ├── defined@0.0.0 </tspan>
+<tspan x="10" y="314">  ├─┬ deps-topo-sort@0.2.1 </tspan>
+<tspan x="10" y="330">  │ ├─┬ JSONStream@0.7.4 </tspan>
+<tspan x="10" y="346">  │ │ └── jsonparse@0.0.5 </tspan>
+<tspan x="10" y="362">  │ └── minimist@0.0.5 </tspan>
+<tspan x="10" y="378">  ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="394">  ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="410">  ├─┬ JSONStream@0.8.4 </tspan>
+<tspan x="10" y="426">  │ ├── jsonparse@0.0.5 </tspan>
+<tspan x="10" y="442">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="458">  ├─┬ labeled-stream-splicer@1.0.2 </tspan>
+<tspan x="10" y="474">  │ └─┬ stream-splicer@1.3.2 </tspan>
+<tspan x="10" y="490">  │   ├── indexof@0.0.1 </tspan>
+<tspan x="10" y="506">  │   ├── readable-wrap@1.0.0 </tspan>
+<tspan x="10" y="522">  │   └── through2@1.1.1 </tspan>
+<tspan x="10" y="538">  ├── minimist@0.2.0 </tspan>
+<tspan x="10" y="554">  ├── nub@0.0.0 </tspan>
+<tspan x="10" y="570">  ├─┬ outpipe@1.1.1 </tspan>
+<tspan x="10" y="586">  │ └─┬ shell-quote@1.6.1 </tspan>
+<tspan x="10" y="602">  │   ├── array-filter@0.0.1 </tspan>
+<tspan x="10" y="618">  │   ├── array-map@0.0.0 </tspan>
+<tspan x="10" y="634">  │   ├── array-reduce@0.0.0 </tspan>
+<tspan x="10" y="650">  │   └── jsonify@0.0.0 </tspan>
+<tspan x="10" y="666">  ├── reversepoint@0.2.1 </tspan>
+<tspan x="10" y="682">  ├─┬ stream-combiner@0.2.2 </tspan>
+<tspan x="10" y="698">  │ └── duplexer@0.1.1 </tspan>
+<tspan x="10" y="714">  ├─┬ through2@0.5.1 </tspan>
+<tspan x="10" y="730">  │ ├─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="746">  │ │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="762">  │ │ └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="778">  │ └── xtend@3.0.0 </tspan>
+<tspan x="10" y="794">  └── xtend@4.0.1</tspan>
+</text>
+</svg>
