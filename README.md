@@ -1,6 +1,6 @@
 # npmtest-factor-bundle
 
-#### test coverage for  [factor-bundle (v2.5.0)](https://github.com/substack/factor-bundle)  [![npm package](https://img.shields.io/npm/v/npmtest-factor-bundle.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-factor-bundle) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-factor-bundle.svg)](https://travis-ci.org/npmtest/node-npmtest-factor-bundle)
+#### basic test coverage for  [factor-bundle (v2.5.0)](https://github.com/substack/factor-bundle)  [![npm package](https://img.shields.io/npm/v/npmtest-factor-bundle.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-factor-bundle) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-factor-bundle.svg)](https://travis-ci.org/npmtest/node-npmtest-factor-bundle)
 
 #### factor browser-pack bundles into common shared bundles
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-factor-bundle/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-factor-bundle/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-factor-bundle/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-factor-bundle/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-factor-bundle/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-factor-bundle/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-factor-bundle/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-factor-bundle/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-factor-bundle/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-factor-bundle/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-factor-bundle/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-factor-bundle/build/coverage.html/index.html)
 
